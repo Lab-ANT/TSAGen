@@ -13,12 +13,6 @@ pip install requirements.txt
 python setup.py install
 ```
 
-## Command Usage
-You can use TSAGen in command line.
-```bash
-python TSAGen.py -h
-python TSAGen.py --mode=m --meta='./meta_features.yaml'
-```
 ## API Usage
 You can directly use the API provided by TSAGen. The source file ''gen.py'' contains many examples for the API usage.
 For example:
